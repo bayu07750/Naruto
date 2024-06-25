@@ -1,0 +1,11 @@
+### Root
+GET http://localhost:8080/
+
+### Naruto heroes
+GET http://localhost:8080/naruto/heroes
+
+### Naruto heroes page 2
+GET http://localhost:8080/naruto/heroes?page=2
+
+### Search heroes
+GET http://localhost:8080/naruto/heroes/search?name=minato
